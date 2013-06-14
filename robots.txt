@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://anthonybrown.github.io/sitemap.xml 
